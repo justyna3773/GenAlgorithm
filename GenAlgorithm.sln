@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenAlgorithm", "GenAlgorithm.csproj", "{7848C814-33A0-432B-B781-FE355FEB47B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7848C814-33A0-432B-B781-FE355FEB47B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7848C814-33A0-432B-B781-FE355FEB47B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7848C814-33A0-432B-B781-FE355FEB47B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7848C814-33A0-432B-B781-FE355FEB47B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF310AAE-7A95-4A6C-8682-C15AE1FB0D5C}
+	EndGlobalSection
+EndGlobal

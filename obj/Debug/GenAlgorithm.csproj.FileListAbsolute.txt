@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GenAlgorithm\obj\Debug\GenAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\GenAlgorithm\obj\Debug\GenAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GenAlgorithm\bin\Debug\GenAlgorithm.exe.config
+C:\Users\Administrator\source\repos\GenAlgorithm\bin\Debug\GenAlgorithm.exe
+C:\Users\Administrator\source\repos\GenAlgorithm\bin\Debug\GenAlgorithm.pdb
+C:\Users\Administrator\source\repos\GenAlgorithm\obj\Debug\GenAlgorithm.exe
+C:\Users\Administrator\source\repos\GenAlgorithm\obj\Debug\GenAlgorithm.pdb
